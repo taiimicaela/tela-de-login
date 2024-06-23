@@ -1,0 +1,1 @@
+Este projeto visa desenvolver uma tela de login simples e funcional utilizando as tecnologias HTML, CSS e JavaScript. A tela de login será a porta de entrada para um sistema ou aplicativo web, permitindo que os usuários se autentiquem de forma segura.
